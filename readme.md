@@ -48,7 +48,6 @@ import { BottomSheet, SnapPoint } from './components/BottomSheet';
 function App() {
   return (
     <div>
-      {/* Your app content */}
       <BottomSheet />
     </div>
   );
