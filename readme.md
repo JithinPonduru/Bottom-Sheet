@@ -29,7 +29,7 @@ The project showcases a bottom sheet component that can be interacted with in mu
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/JithinPonduru/Bottom-Sheet
 
 # Navigate to project folder
 cd bottom-sheet-component
